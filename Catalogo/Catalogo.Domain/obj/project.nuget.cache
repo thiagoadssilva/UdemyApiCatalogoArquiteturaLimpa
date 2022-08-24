@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8RitVHek4cOE7B0gj+xKZKUitNuW/aa6MXSDCtuJNZU5GP8gClyHLxJcSiBWsi0uWiqZAYyG/58ql4EBVj4hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Documentos\\PROJETOS\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
